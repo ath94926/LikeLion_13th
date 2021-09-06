@@ -8,4 +8,5 @@
   * 03 a, img, tag [source code](https://github.com/ath94926/LikeLion_13th/blob/main/03_html_title.html)
   * 04 div, span, ul, ol, li [source code](https://github.com/ath94926/LikeLion_13th/blob/main/04_html_title.html)
 * CSS 기본 이해
-  * Toy Project - 나의 갤러리 [link](https://github.com/ath94926/LikeLion_13th/blob/main/14_img_gallery.html)
+  * Toy Project - 나의 갤러리 [link](https://ath94926.github.io/LikeLion_13th/14_img_gallery)
+  * [code](https://github.com/ath94926/LikeLion_13th/blob/main/14_img_gallery.html)
